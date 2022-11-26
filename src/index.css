@@ -1,0 +1,18 @@
+
+body {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container-image {
+  display: flex;
+  justify-content: center;
+}
+
+.container-image img {
+  width: 500px;
+}
+
